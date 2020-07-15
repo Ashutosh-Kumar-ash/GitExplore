@@ -1,3 +1,6 @@
 one function - I have added a very important function here
 two function - I have added another a very important function here
 three function - I have added unnecessary function here
+
+
+added a chart function in our branch
